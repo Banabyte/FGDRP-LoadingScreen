@@ -23,7 +23,7 @@
   "homepage": "https://cdn.banabyte.com/gmod/load/fgdrp",
   "devDependencies": {
     "@babel/core": "^7.23.7",
-    "@babel/eslint-parser": "^7.23.3",
+    "@babel/eslint-parser": "^8.0.0",
     "eslint": "^9.0.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
